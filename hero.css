@@ -1,0 +1,61 @@
+body{
+    margin: 0%;
+    margin: 0 auto;
+    font-size: 20px;
+}
+header{
+    background-color: crimson;
+    text-align: center;
+}
+header h1{
+    color: white;
+    font-size: 50px;
+    
+}
+H1,H2{
+    font-family: 'Lobster', cursive;
+}
+h2{
+    font-size: 28px;
+    color: rgb(150, 100, 96) ;
+}
+header img{
+    border-radius: 5cm;
+    width: 300px;
+    border: 10px solid brown;
+    align-items: center;
+}
+main{
+    margin:0 auto ;
+    padding: 0 20px;
+    
+}
+main img{ 
+    max-width: 100%;
+}
+a{
+    color: rgb(86, 124, 214);
+}
+a:hover{
+    color: purple;
+    background-color: pink;
+}
+footer{
+    background-color: crimson;
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+footer a{
+    color: rgb(255, 255, 255);
+}
+footer a :hover{
+    opacity: 0.5;
+    background-color: transparent;
+}
+footer p{margin: 0cm;}
+p.caption{
+    color: rgb(172, 170, 170);
+    font-style: italic;
+    margin: 0ch;
+}
